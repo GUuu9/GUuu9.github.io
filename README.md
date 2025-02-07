@@ -2,7 +2,7 @@
 
 Check Receive Packet To Protocol.
 
-[Go PacketChecker Page](https://guuu9.github.io/packet_Chekcer/)
+[Go PacketChecker Page](https://guuu9.github.io/packet_Checker/)
 
 
 ## HOW TO USE
